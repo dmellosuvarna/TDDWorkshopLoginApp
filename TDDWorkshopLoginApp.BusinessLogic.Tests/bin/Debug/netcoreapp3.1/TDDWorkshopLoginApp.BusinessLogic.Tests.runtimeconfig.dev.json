@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\suvarna.dmello\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\suvarna.dmello\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
