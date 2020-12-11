@@ -25,7 +25,8 @@ namespace TDDWorkshopLoginApp.BusinessLogic.Tests
         {
             CreateAccount user=new CreateAccount();
             string result= user.CreateUser(null,"password");
-            Assert.AreEqual("User Creation Failed -Null Username",result);
+            //Assert.AreEqual("User Creation Failed -Null Username",result);
+            Assert.AreEqual(customMsg.DisplayMessages("UserFailure"), result);
            
         }
 
@@ -92,14 +93,14 @@ namespace TDDWorkshopLoginApp.BusinessLogic.Tests
                   
         }
 
-        [Test]
-        public void ShouldreturnTrueOnValidPassword()
+      /*  [Test]
+       public void ShouldreturnTrueOnValidPassword()
         {
             CreateAccount user=new CreateAccount();
             var result =user.ValidatePassword("12345678");         
             Assert.IsTrue(result,"“Login failed. Invalid password - contains numbers");
                   
-        }
+        }*/
         [Test]
         public void ShouldreturnFalseOnInValidPassword()
         {
