@@ -1,0 +1,9 @@
+C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic\bin\Release\netstandard2.0\TDDWorkshopLoginApp.BusinessLogic.deps.json
+C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic\bin\Release\netstandard2.0\TDDWorkshopLoginApp.BusinessLogic.dll
+C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic\bin\Release\netstandard2.0\TDDWorkshopLoginApp.BusinessLogic.pdb
+C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic\obj\Release\netstandard2.0\TDDWorkshopLoginApp.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic\obj\Release\netstandard2.0\TDDWorkshopLoginApp.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic\obj\Release\netstandard2.0\TDDWorkshopLoginApp.BusinessLogic.AssemblyInfo.cs
+C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic\obj\Release\netstandard2.0\TDDWorkshopLoginApp.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic\obj\Release\netstandard2.0\TDDWorkshopLoginApp.BusinessLogic.dll
+C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic\obj\Release\netstandard2.0\TDDWorkshopLoginApp.BusinessLogic.pdb

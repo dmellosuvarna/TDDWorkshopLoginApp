@@ -9,14 +9,7 @@ namespace TDDWorkshopLoginApp.BusinessLogic
         // Create Dictionary.
         public Dictionary<string, string> Dict_LoginData = new Dictionary<string, string>();
         CustomMessage customMessage=new CustomMessage();
-      /*  public string SuccessMessage()    
-        {
-            return "User Created successfully";
-        }   
-        public string FailureMessage()    
-        {
-            return "User Creation Failed";
-        }  */      
+     
         public string CreateUser(string username,string password)
         {
             string result="";
