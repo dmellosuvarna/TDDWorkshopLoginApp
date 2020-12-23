@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="9fb21fc8-8d97-4818-95fe-b9a3905f815b" name="suvarna.dmello@M5-L-271WMF2 2020-12-17 16:11:06" runUser="DIR\suvarna.dmello" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2020-12-17T16:11:06.4882263+05:30" queuing="2020-12-17T16:11:06.4882282+05:30" start="2020-12-17T16:11:02.3169376+05:30" finish="2020-12-17T16:11:06.6831362+05:30" />
+  <TestSettings name="default" id="ee070438-5497-457b-8b6e-1d6c2327e983">
+    <Deployment runDeploymentRoot="suvarna.dmello_M5-L-271WMF2_2020-12-17_16_11_06" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="84f6557d-d866-436c-9c1f-c053a0fdda64" testId="216906b5-e93a-3b8b-342a-b61a357bc47a" testName="ShouldReturnSuccessonCreateAccount" computerName="M5-L-271WMF2" duration="00:00:00.0013029" startTime="2020-12-17T16:11:06.0000000+05:30" endTime="2020-12-17T16:11:06.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="84f6557d-d866-436c-9c1f-c053a0fdda64" />
+    <UnitTestResult executionId="3a4bcb7a-23d6-4dec-8014-6855c0f5a755" testId="38bf1ae0-1cd9-dab2-0721-d5cf54f5a118" testName="ShouldreturnTrueOnValidUserLength" computerName="M5-L-271WMF2" duration="00:00:00.0002070" startTime="2020-12-17T16:11:06.0000000+05:30" endTime="2020-12-17T16:11:06.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3a4bcb7a-23d6-4dec-8014-6855c0f5a755" />
+    <UnitTestResult executionId="b6d0335d-6b15-4733-bf6e-353a6dbf0f46" testId="1bad0c76-0a38-7e87-b1b7-a7bbfe98941a" testName="ShouldreturnTrueIfAtleastTwoAlphabetPresentinPassword" computerName="M5-L-271WMF2" duration="00:00:00.0006579" startTime="2020-12-17T16:11:06.0000000+05:30" endTime="2020-12-17T16:11:06.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b6d0335d-6b15-4733-bf6e-353a6dbf0f46" />
+    <UnitTestResult executionId="4cc18b58-90eb-45f2-bbea-09c42ecf27d5" testId="1e9a0489-d744-d77d-8d84-730d2ae36cdb" testName="ShouldreturnTrueOnValidUserAlphabetsOnly" computerName="M5-L-271WMF2" duration="00:00:00.0003579" startTime="2020-12-17T16:11:06.0000000+05:30" endTime="2020-12-17T16:11:06.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4cc18b58-90eb-45f2-bbea-09c42ecf27d5" />
+    <UnitTestResult executionId="534e1c89-6618-48f1-a507-2e5926b7cc89" testId="06582e49-5f7f-5fa1-ffd4-a8587784f0c2" testName="ShouldreturnFalseIfAtleastTwoIntegerNotPresentinPassword" computerName="M5-L-271WMF2" duration="00:00:00.0104870" startTime="2020-12-17T16:11:06.0000000+05:30" endTime="2020-12-17T16:11:06.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="534e1c89-6618-48f1-a507-2e5926b7cc89" />
+    <UnitTestResult executionId="67546b70-25a5-4b63-b5d5-63665a144851" testId="93d89739-d2fc-336b-c3f8-45efa0a20ff0" testName="ShouldReturnFailedonCreateAccount" computerName="M5-L-271WMF2" duration="00:00:00.0254520" startTime="2020-12-17T16:11:06.0000000+05:30" endTime="2020-12-17T16:11:06.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="67546b70-25a5-4b63-b5d5-63665a144851" />
+    <UnitTestResult executionId="059dbbff-c46c-44a2-84f6-ce6d631e227c" testId="15ce072b-31f3-0a64-d96a-cb0de5c46d53" testName="ShouldreturnTrueOnValidUserifNotNull" computerName="M5-L-271WMF2" duration="00:00:00.0002970" startTime="2020-12-17T16:11:06.0000000+05:30" endTime="2020-12-17T16:11:06.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="059dbbff-c46c-44a2-84f6-ce6d631e227c" />
+    <UnitTestResult executionId="2f7b923c-42b2-4201-8cb7-c8da757585b8" testId="c83d1b2c-5ebd-43cc-22da-cce897784177" testName="ShouldreturnFalseOnInValidUserIfNull" computerName="M5-L-271WMF2" duration="00:00:00.0003430" startTime="2020-12-17T16:11:06.0000000+05:30" endTime="2020-12-17T16:11:06.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2f7b923c-42b2-4201-8cb7-c8da757585b8" />
+    <UnitTestResult executionId="ea3bd0e1-285e-4480-8daa-ca27d702323e" testId="14e8b88c-74be-e62c-1a01-0c1c1bc92791" testName="ShouldReturnFailIfUserIsNullonCreateAccount" computerName="M5-L-271WMF2" duration="00:00:00.0011370" startTime="2020-12-17T16:11:06.0000000+05:30" endTime="2020-12-17T16:11:06.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ea3bd0e1-285e-4480-8daa-ca27d702323e" />
+    <UnitTestResult executionId="52bec67f-f9e5-4819-ad9b-4b9911cbe381" testId="7a9fbb9f-84ad-4a27-2956-82736caac11b" testName="ShouldreturnFalseOnInValidUserNonAlphabet" computerName="M5-L-271WMF2" duration="00:00:00.0026520" startTime="2020-12-17T16:11:06.0000000+05:30" endTime="2020-12-17T16:11:06.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="52bec67f-f9e5-4819-ad9b-4b9911cbe381" />
+    <UnitTestResult executionId="a40175e2-9632-4f8a-a502-6d2c82a5b194" testId="4e3ad597-5296-18ac-1591-d3b1a73e341d" testName="ShouldreturnFalseOnInValidUserLength" computerName="M5-L-271WMF2" duration="00:00:00.0002780" startTime="2020-12-17T16:11:06.0000000+05:30" endTime="2020-12-17T16:11:06.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a40175e2-9632-4f8a-a502-6d2c82a5b194" />
+    <UnitTestResult executionId="a7c40da2-21de-4a98-b810-afcbc0377ac5" testId="2b336155-e2b1-6743-c8bc-ae600c90ce80" testName="ShouldreturnFalseOnInValidPassword" computerName="M5-L-271WMF2" duration="00:00:00.0013800" startTime="2020-12-17T16:11:06.0000000+05:30" endTime="2020-12-17T16:11:06.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a7c40da2-21de-4a98-b810-afcbc0377ac5" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="ShouldReturnFailedonCreateAccount" storage="c:\users\suvarna.dmello\onedrive - accenture\projects\fsta\tddworkshoploginapp\tddworkshoploginapp.businesslogic.tests\bin\debug\netcoreapp3.1\tddworkshoploginapp.businesslogic.tests.dll" id="93d89739-d2fc-336b-c3f8-45efa0a20ff0">
+      <Execution id="67546b70-25a5-4b63-b5d5-63665a144851" />
+      <TestMethod codeBase="C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="TDDWorkshopLoginApp.BusinessLogic.Tests.CreateAccountTest" name="ShouldReturnFailedonCreateAccount" />
+    </UnitTest>
+    <UnitTest name="ShouldReturnSuccessonCreateAccount" storage="c:\users\suvarna.dmello\onedrive - accenture\projects\fsta\tddworkshoploginapp\tddworkshoploginapp.businesslogic.tests\bin\debug\netcoreapp3.1\tddworkshoploginapp.businesslogic.tests.dll" id="216906b5-e93a-3b8b-342a-b61a357bc47a">
+      <Execution id="84f6557d-d866-436c-9c1f-c053a0fdda64" />
+      <TestMethod codeBase="C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="TDDWorkshopLoginApp.BusinessLogic.Tests.CreateAccountTest" name="ShouldReturnSuccessonCreateAccount" />
+    </UnitTest>
+    <UnitTest name="ShouldreturnTrueOnValidUserLength" storage="c:\users\suvarna.dmello\onedrive - accenture\projects\fsta\tddworkshoploginapp\tddworkshoploginapp.businesslogic.tests\bin\debug\netcoreapp3.1\tddworkshoploginapp.businesslogic.tests.dll" id="38bf1ae0-1cd9-dab2-0721-d5cf54f5a118">
+      <Execution id="3a4bcb7a-23d6-4dec-8014-6855c0f5a755" />
+      <TestMethod codeBase="C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="TDDWorkshopLoginApp.BusinessLogic.Tests.CreateAccountTest" name="ShouldreturnTrueOnValidUserLength" />
+    </UnitTest>
+    <UnitTest name="ShouldReturnFailIfUserIsNullonCreateAccount" storage="c:\users\suvarna.dmello\onedrive - accenture\projects\fsta\tddworkshoploginapp\tddworkshoploginapp.businesslogic.tests\bin\debug\netcoreapp3.1\tddworkshoploginapp.businesslogic.tests.dll" id="14e8b88c-74be-e62c-1a01-0c1c1bc92791">
+      <Execution id="ea3bd0e1-285e-4480-8daa-ca27d702323e" />
+      <TestMethod codeBase="C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="TDDWorkshopLoginApp.BusinessLogic.Tests.CreateAccountTest" name="ShouldReturnFailIfUserIsNullonCreateAccount" />
+    </UnitTest>
+    <UnitTest name="ShouldreturnTrueIfAtleastTwoAlphabetPresentinPassword" storage="c:\users\suvarna.dmello\onedrive - accenture\projects\fsta\tddworkshoploginapp\tddworkshoploginapp.businesslogic.tests\bin\debug\netcoreapp3.1\tddworkshoploginapp.businesslogic.tests.dll" id="1bad0c76-0a38-7e87-b1b7-a7bbfe98941a">
+      <Execution id="b6d0335d-6b15-4733-bf6e-353a6dbf0f46" />
+      <TestMethod codeBase="C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="TDDWorkshopLoginApp.BusinessLogic.Tests.CreateAccountTest" name="ShouldreturnTrueIfAtleastTwoAlphabetPresentinPassword" />
+    </UnitTest>
+    <UnitTest name="ShouldreturnFalseOnInValidPassword" storage="c:\users\suvarna.dmello\onedrive - accenture\projects\fsta\tddworkshoploginapp\tddworkshoploginapp.businesslogic.tests\bin\debug\netcoreapp3.1\tddworkshoploginapp.businesslogic.tests.dll" id="2b336155-e2b1-6743-c8bc-ae600c90ce80">
+      <Execution id="a7c40da2-21de-4a98-b810-afcbc0377ac5" />
+      <TestMethod codeBase="C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="TDDWorkshopLoginApp.BusinessLogic.Tests.CreateAccountTest" name="ShouldreturnFalseOnInValidPassword" />
+    </UnitTest>
+    <UnitTest name="ShouldreturnTrueOnValidUserifNotNull" storage="c:\users\suvarna.dmello\onedrive - accenture\projects\fsta\tddworkshoploginapp\tddworkshoploginapp.businesslogic.tests\bin\debug\netcoreapp3.1\tddworkshoploginapp.businesslogic.tests.dll" id="15ce072b-31f3-0a64-d96a-cb0de5c46d53">
+      <Execution id="059dbbff-c46c-44a2-84f6-ce6d631e227c" />
+      <TestMethod codeBase="C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="TDDWorkshopLoginApp.BusinessLogic.Tests.CreateAccountTest" name="ShouldreturnTrueOnValidUserifNotNull" />
+    </UnitTest>
+    <UnitTest name="ShouldreturnFalseOnInValidUserLength" storage="c:\users\suvarna.dmello\onedrive - accenture\projects\fsta\tddworkshoploginapp\tddworkshoploginapp.businesslogic.tests\bin\debug\netcoreapp3.1\tddworkshoploginapp.businesslogic.tests.dll" id="4e3ad597-5296-18ac-1591-d3b1a73e341d">
+      <Execution id="a40175e2-9632-4f8a-a502-6d2c82a5b194" />
+      <TestMethod codeBase="C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="TDDWorkshopLoginApp.BusinessLogic.Tests.CreateAccountTest" name="ShouldreturnFalseOnInValidUserLength" />
+    </UnitTest>
+    <UnitTest name="ShouldreturnFalseOnInValidUserNonAlphabet" storage="c:\users\suvarna.dmello\onedrive - accenture\projects\fsta\tddworkshoploginapp\tddworkshoploginapp.businesslogic.tests\bin\debug\netcoreapp3.1\tddworkshoploginapp.businesslogic.tests.dll" id="7a9fbb9f-84ad-4a27-2956-82736caac11b">
+      <Execution id="52bec67f-f9e5-4819-ad9b-4b9911cbe381" />
+      <TestMethod codeBase="C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="TDDWorkshopLoginApp.BusinessLogic.Tests.CreateAccountTest" name="ShouldreturnFalseOnInValidUserNonAlphabet" />
+    </UnitTest>
+    <UnitTest name="ShouldreturnFalseIfAtleastTwoIntegerNotPresentinPassword" storage="c:\users\suvarna.dmello\onedrive - accenture\projects\fsta\tddworkshoploginapp\tddworkshoploginapp.businesslogic.tests\bin\debug\netcoreapp3.1\tddworkshoploginapp.businesslogic.tests.dll" id="06582e49-5f7f-5fa1-ffd4-a8587784f0c2">
+      <Execution id="534e1c89-6618-48f1-a507-2e5926b7cc89" />
+      <TestMethod codeBase="C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="TDDWorkshopLoginApp.BusinessLogic.Tests.CreateAccountTest" name="ShouldreturnFalseIfAtleastTwoIntegerNotPresentinPassword" />
+    </UnitTest>
+    <UnitTest name="ShouldreturnTrueOnValidUserAlphabetsOnly" storage="c:\users\suvarna.dmello\onedrive - accenture\projects\fsta\tddworkshoploginapp\tddworkshoploginapp.businesslogic.tests\bin\debug\netcoreapp3.1\tddworkshoploginapp.businesslogic.tests.dll" id="1e9a0489-d744-d77d-8d84-730d2ae36cdb">
+      <Execution id="4cc18b58-90eb-45f2-bbea-09c42ecf27d5" />
+      <TestMethod codeBase="C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="TDDWorkshopLoginApp.BusinessLogic.Tests.CreateAccountTest" name="ShouldreturnTrueOnValidUserAlphabetsOnly" />
+    </UnitTest>
+    <UnitTest name="ShouldreturnFalseOnInValidUserIfNull" storage="c:\users\suvarna.dmello\onedrive - accenture\projects\fsta\tddworkshoploginapp\tddworkshoploginapp.businesslogic.tests\bin\debug\netcoreapp3.1\tddworkshoploginapp.businesslogic.tests.dll" id="c83d1b2c-5ebd-43cc-22da-cce897784177">
+      <Execution id="2f7b923c-42b2-4201-8cb7-c8da757585b8" />
+      <TestMethod codeBase="C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="TDDWorkshopLoginApp.BusinessLogic.Tests.CreateAccountTest" name="ShouldreturnFalseOnInValidUserIfNull" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="216906b5-e93a-3b8b-342a-b61a357bc47a" executionId="84f6557d-d866-436c-9c1f-c053a0fdda64" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="38bf1ae0-1cd9-dab2-0721-d5cf54f5a118" executionId="3a4bcb7a-23d6-4dec-8014-6855c0f5a755" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1bad0c76-0a38-7e87-b1b7-a7bbfe98941a" executionId="b6d0335d-6b15-4733-bf6e-353a6dbf0f46" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1e9a0489-d744-d77d-8d84-730d2ae36cdb" executionId="4cc18b58-90eb-45f2-bbea-09c42ecf27d5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="06582e49-5f7f-5fa1-ffd4-a8587784f0c2" executionId="534e1c89-6618-48f1-a507-2e5926b7cc89" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="93d89739-d2fc-336b-c3f8-45efa0a20ff0" executionId="67546b70-25a5-4b63-b5d5-63665a144851" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="15ce072b-31f3-0a64-d96a-cb0de5c46d53" executionId="059dbbff-c46c-44a2-84f6-ce6d631e227c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c83d1b2c-5ebd-43cc-22da-cce897784177" executionId="2f7b923c-42b2-4201-8cb7-c8da757585b8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="14e8b88c-74be-e62c-1a01-0c1c1bc92791" executionId="ea3bd0e1-285e-4480-8daa-ca27d702323e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a9fbb9f-84ad-4a27-2956-82736caac11b" executionId="52bec67f-f9e5-4819-ad9b-4b9911cbe381" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4e3ad597-5296-18ac-1591-d3b1a73e341d" executionId="a40175e2-9632-4f8a-a502-6d2c82a5b194" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2b336155-e2b1-6743-c8bc-ae600c90ce80" executionId="a7c40da2-21de-4a98-b810-afcbc0377ac5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="12" executed="12" passed="12" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.15.1.0: Test execution started&#xD;
+Running all tests in C:\Users\suvarna.dmello\OneDrive - Accenture\Projects\FSTA\TDDWorkshopLoginApp\TDDWorkshopLoginApp.BusinessLogic.Tests\bin\Debug\netcoreapp3.1\TDDWorkshopLoginApp.BusinessLogic.Tests.dll&#xD;
+   NUnit3TestExecutor converted 12 of 12 NUnit test cases&#xD;
+NUnit Adapter 3.15.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
