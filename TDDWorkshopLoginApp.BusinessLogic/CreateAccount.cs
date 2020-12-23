@@ -14,7 +14,7 @@ namespace TDDWorkshopLoginApp.BusinessLogic
         public string CreateUser(string username,string password)
         {
             string result="";
-            if(password !="" && validateData.ValidateUserName(username) && validateData.ValidatePassword(password))
+            if(validateData.ValidateUserName(username) && validateData.ValidatePassword(password))
             {
                 Dict_LoginData.Add(username,password);
                #region toberemovedValidate data in Dictionary

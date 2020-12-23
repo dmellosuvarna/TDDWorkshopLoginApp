@@ -23,7 +23,7 @@ namespace TDDWorkshopLoginApp.BusinessLogic
 
         public bool ValidatePassword(string password)
         {
-            if (Regex.IsMatch(password, @"[0-9]+") && Regex.IsMatch(password, "^(?=.*[A-Za-z]{2})(?=.*\\d)[A-Za-z\\d]{6,}$"))
+            if (password != "" && Regex.IsMatch(password, @"[0-9]+") && Regex.IsMatch(password, "^(?=.*[A-Za-z]{2})(?=.*\\d)[A-Za-z\\d]{6,}$"))
             {
                 return true;
             }
