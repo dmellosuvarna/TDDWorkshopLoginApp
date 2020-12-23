@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 
 namespace TDDWorkshopLoginApp.BusinessLogic
 {
-    class ValidateData
+    public class ValidateData
     {
         public bool ValidateUserName(string username)
         {
