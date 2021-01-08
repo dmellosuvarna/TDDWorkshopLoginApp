@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cx9eG005B72GESDzrnsfU3CDR1iV1BZ8b3IFLkJCIf86jaEA10zeo5ZQERsbZvSmCriG6nyQIqQRtyTMn25kMQ==",
+  "dgSpecHash": "couj32sr9H3pwpZVz0uwlhsEvTLXVv0xX/S6zpB66q36hxjQtFyxbGIeV6Qo5FMgWneB7x53iQyUmMLM6jL3nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\TDDWorkshopLoginApp.BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\TDDWorkshopLoginApp.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suvarna.dmello\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\suvarna.dmello\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

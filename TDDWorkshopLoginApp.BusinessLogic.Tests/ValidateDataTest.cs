@@ -2,6 +2,7 @@
 
 namespace TDDWorkshopLoginApp.BusinessLogic.Tests
 {
+    [TestFixture]
     public class ValidateDataTest
     {
         ValidateData user;

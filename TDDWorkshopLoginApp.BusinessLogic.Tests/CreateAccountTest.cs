@@ -5,17 +5,20 @@ namespace TDDWorkshopLoginApp.BusinessLogic.Tests
     
     public class CreateAccountTest
     {
-        CustomMessage customMsg=new CustomMessage();
+        CreateAccount user;
+        CustomMessage customMsg;
+        
         [SetUp]
         public void Setup()
         {
-            
+            user = new CreateAccount();
+            customMsg = new CustomMessage();
         }
 
          [Test]
         public void ShouldReturnSuccessonCreateAccount()
         {
-            CreateAccount user=new CreateAccount();
+           
             string result= user.CreateUser("suvarna","password123");
             Assert.AreEqual(customMsg.DisplayMessages("UserSuccess"),result);            
         }
@@ -37,6 +40,13 @@ namespace TDDWorkshopLoginApp.BusinessLogic.Tests
             string result= user.CreateUser("suvarna","");
             Assert.AreEqual(customMsg.DisplayMessages("UserFailure"),result);
             
+        }
+
+        [OneTimeTearDown]
+        public void TearDown()
+        {
+            user = null;
+            customMsg = null;
         }
 
        

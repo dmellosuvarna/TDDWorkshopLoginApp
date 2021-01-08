@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic.Tests\\TDDWorkshopLoginApp.BusinessLogic.Tests.csproj": {}
+    "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic.Tests\\TDDWorkshopLoginApp.BusinessLogic.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic.Tests\\TDDWorkshopLoginApp.BusinessLogic.Tests.csproj": {
+    "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic.Tests\\TDDWorkshopLoginApp.BusinessLogic.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic.Tests\\TDDWorkshopLoginApp.BusinessLogic.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic.Tests\\TDDWorkshopLoginApp.BusinessLogic.Tests.csproj",
         "projectName": "TDDWorkshopLoginApp.BusinessLogic.Tests",
-        "projectPath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic.Tests\\TDDWorkshopLoginApp.BusinessLogic.Tests.csproj",
+        "projectPath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic.Tests\\TDDWorkshopLoginApp.BusinessLogic.Tests.csproj",
         "packagesPath": "C:\\Users\\suvarna.dmello\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic.Tests\\obj\\",
+        "outputPath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\TDDWorkshopLoginApp.BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\TDDWorkshopLoginApp.BusinessLogic.csproj"
+              "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\TDDWorkshopLoginApp.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\TDDWorkshopLoginApp.BusinessLogic.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\TDDWorkshopLoginApp.BusinessLogic.csproj": {
+    "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\TDDWorkshopLoginApp.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\TDDWorkshopLoginApp.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\TDDWorkshopLoginApp.BusinessLogic.csproj",
         "projectName": "TDDWorkshopLoginApp.BusinessLogic",
-        "projectPath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\TDDWorkshopLoginApp.BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\TDDWorkshopLoginApp.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\suvarna.dmello\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ThnEPQ1+1LJWFXwr8vXYZ9rELu61TZWlkwxk/gHvrOdYRCcH5u9NFVRvhiQPQoKBLmOvXLjWKP2jZk60pUYOwA==",
+  "dgSpecHash": "0YmIgzLDoaktOHoIFQP2qcwIx2owXC/dGprruTL3P8GnFdNjnLraNmP418PhHDT/fu+1YUQnXqT22NuQlkNeVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic.Tests\\TDDWorkshopLoginApp.BusinessLogic.Tests.csproj",
+  "projectFilePath": "C:\\Users\\suvarna.dmello\\OneDrive - Accenture\\Projects\\FSTA\\Katas\\TDD\\TDDWorkshopLoginApp\\TDDWorkshopLoginApp.BusinessLogic.Tests\\TDDWorkshopLoginApp.BusinessLogic.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suvarna.dmello\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\suvarna.dmello\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -9,7 +9,8 @@ namespace TDDWorkshopLoginApp.BusinessLogic
     {
         public bool ValidateUserName(string username)
         {
-            if (username != null && username != "" && (username.Length > 1 && username.Length <= 11) && Regex.IsMatch(username, @"^[a-zA-Z]+$"))
+            
+            if (!string.IsNullOrEmpty(username) && (username.Length > 1 && username.Length <= 11) && Regex.IsMatch(username, @"^[a-zA-Z]+$"))
             {
                 return true;
             }
